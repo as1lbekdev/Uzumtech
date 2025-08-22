@@ -9,6 +9,11 @@ public class WorldCounter {
         int n;
         String str;
 
+
+
+
+
+
         System.out.println("Enter a string");
         str = input.nextLine();
 
@@ -32,6 +37,13 @@ public class WorldCounter {
 
         }
         input.close();
+
+
+
+
+
+
+
 
     }
 }
